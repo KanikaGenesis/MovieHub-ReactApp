@@ -24,7 +24,6 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/Hooked.git
-   cd Hooked
    ```
 
 2. **Install dependencies:**
@@ -65,7 +64,3 @@ Enjoy exploring movies with Hooked! If you have any feedback or suggestions, fee
 📌API_IMG="https://image.tmdb.org/t/p/w500/"
 
 📌API_SEARCH="https://api.themoviedb.org/3/search/movie?api_key=<<api_key_here>>&query"
-
-API_URL="https://api.themoviedb.org/3/movie/popular?api_key=9e12aaa877441b83edd278edcb08a595"
-API_IMG="https://image.tmdb.org/t/p/w500/"
-API_SEARCH="https://api.themoviedb.org/3/search/movie?api_key=9e12aaa877441b83edd278edcb08a595&query"
