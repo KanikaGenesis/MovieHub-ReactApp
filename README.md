@@ -1,6 +1,6 @@
-# Hooked - MovieDB React App
+# MovieHub
 
-Hooked is a dynamic and user-friendly Movie Database (MovieDB) web application built using React JS, React Hooks, Bootstrap, and CSS. It leverages the TMDB (The Movie Database) API to fetch and display information about movies, including details like titles, ratings, release dates, and descriptions.
+MovieHub is a dynamic and user-friendly Movie Database (MovieDB) web application built using React JS, React Hooks, Bootstrap, and CSS. It leverages the TMDB (The Movie Database) API to fetch and display information about movies, including details like titles, ratings, release dates, and descriptions.
 
 ## Features
 
@@ -23,7 +23,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/Hooked.git
+   git clone 
    ```
 
 2. **Install dependencies:**
@@ -53,11 +53,18 @@ To run this project locally, follow these steps:
 
 ## Screenshots
 
-(Add screenshots of your app here to showcase its UI.)
+### Home Page
+This is the landing page of the MovieHub app, showcasing trending movies.
+
+![Home Page](./images/landing.png)
+
+### Movie Modal
+Clicking on "View More" opens a modal with detailed information about the selected movie.
+
+![Movie Modal](./images/modal.png)
 
 
-Enjoy exploring movies with Hooked! If you have any feedback or suggestions, feel free to open an issue or reach out.
-
+### API URLs
 
 📌 API_URL="https://api.themoviedb.org/3/movie/popular?api_key=<<api_key_here>>"
 
