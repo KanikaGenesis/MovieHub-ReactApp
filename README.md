@@ -56,12 +56,12 @@ To run this project locally, follow these steps:
 ### Home Page
 This is the landing page of the MovieHub app, showcasing trending movies.
 
-![Home Page](./images/landing.png)
+![Home Page](./public/images/landing.png)
 
 ### Movie Modal
 Clicking on "View More" opens a modal with detailed information about the selected movie.
 
-![Movie Modal](./images/modal.png)
+![Movie Modal](./public/images/modal.png)
 
 
 ### API URLs
